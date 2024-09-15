@@ -39,13 +39,13 @@
 Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### 🌐 Full-Stack Development
-- **[SafeStayNY-Full-Stack-Project](https://github.com/boer-coding/SafeStayNY-Full-Stack-Project)**: An Airbnb web platform clone using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data to provide advanced search capabilities and personalized recommendations.
-- **[Salinaka-Ecommerce](https://github.com/boer-coding/Salinaka-Ecommerce)**: A Salinaka-Ecommerce advanced e-commerce website with React and Redux, featuring an intuitive shopping cart, detailed product information, and social login capabilities.
+- **[SafeStayNY-Fullstack-SearchPlatform](https://github.com/boer-coding/SafeStayNY-Fullstack-SearchPlatform)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data. 
+- **[Salinaka-Fullstack-Ecommerce](https://github.com/boer-coding/Salinaka-Fullstack-Ecommerce)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
 
 
 ### 🌐 Front-End Development
-
-- **[WeatherStack-Front-End-Project](https://github.com/boer-coding/WeatherStack-Front-End-Project)**: A WeatherStack front end clone built with HTML and CSS.
+- **[Covilla-Frontend-Project](https://github.com/boer-coding/Covilla-Frontend-Project)**: A dynamic web platform for a family travel agency, designed to enhance the user experience in exploring and booking vacations worldwide. 
+- **[WeatherStack-Frontend-Clone](https://github.com/boer-coding/WeatherStack-Frontend-Clone)**:  A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling. 
 
 ### ☕ Java Projects
 
