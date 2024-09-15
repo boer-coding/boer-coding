@@ -5,7 +5,7 @@
       <h3 align="center">Aspiring Software Engineer from the University of Pennsylvania</h3>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-475.gif" width="200" />
+      <img src="https://raw.githubusercontent.com/boer-coding/boer-coding/main/img/hello.gif" width="200" />
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
 
-🔗 Check out my personal portfolio [here](https://github.com/boer-coding) to see more of my work and projects. 🌐
+🔗 Check out my personal portfolio [here](https://github.com/boer-coding?tab=repositories) to see more of my work and projects. 🌐
 
 🎵 Outside the tech world, I enjoy a variety of hobbies, including learning surfing 🏄‍♂️, hiking⛰️, and spending time with my family 🥰. 
 
