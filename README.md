@@ -12,7 +12,7 @@
 
 <p align="left"> 
 <!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=zairuiy-coding" alt="zairuiy-coding" /> -->
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=boer-coding" alt="boer-coding" /> -->
   </a> 
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-🎓 Hi, my name is Boer Liu. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MSc in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in December 2025), where I have excelled in courses such as **Programming for the Web**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
+🎓 Hi, my name is Boer Liu. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MS in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in December 2025), where I have excelled in courses such as **Introduction to Software Development**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
 
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
