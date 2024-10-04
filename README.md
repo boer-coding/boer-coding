@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-🎓 Hi, my name is Boer Liu. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MS in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in December 2025), where I have excelled in courses such as **Introduction to Software Development**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
+🎓 Hi, my name is Boer Liu. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MSc in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in December 2025), where I have excelled in courses such as **Introduction to Software Development**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
 
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
@@ -40,7 +40,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### 🌐 Full-Stack Development
 - **[SafeStayNY-Fullstack-SearchPlatform](https://github.com/boer-coding/SafeStayNY-Fullstack-SearchPlatform)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data. 
-- **[Salinaka-Fullstack-Ecommerce](https://github.com/boer-coding/Salinaka-Fullstack-Ecommerce)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
+- **[Jellycat-Fullstack-Ecommerce](https://github.com/boer-coding/Jellycat-Ecommerce)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
 
 
 ### 🌐 Front-End Development
