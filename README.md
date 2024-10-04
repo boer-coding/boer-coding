@@ -39,13 +39,13 @@
 Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### 🌐 Full-Stack Development
-- **[SafeStayNY-Fullstack-SearchPlatform](https://github.com/boer-coding/SafeStayNY-Fullstack-SearchPlatform)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data. 
-- **[Jellycat-Fullstack-Ecommerce](https://github.com/boer-coding/Jellycat-Ecommerce)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
+- **[SafeStayNY-Fullstack-SearchPlatform](https://safestayny.vercel.app/)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data. 
+- **[Jellycat-Fullstack-Ecommerce](https://jellycat-524feb672551.herokuapp.com/)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
 
 
 ### 🌐 Front-End Development
-- **[Covilla-Frontend-Project](https://github.com/boer-coding/Covilla-Frontend-Project)**: A dynamic web platform for a family travel agency, designed to enhance the user experience in exploring and booking vacations worldwide. 
-- **[WeatherStack-Frontend-Clone](https://github.com/boer-coding/WeatherStack-Frontend-Clone)**:  A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling. 
+- **[Covilla-Frontend-Project](https://boer-coding.github.io/Covilla-Frontend-Project/)**: A dynamic web platform for a family travel agency, designed to enhance the user experience in exploring and booking vacations worldwide. 
+- **[WeatherStack-Frontend-Clone](https://boer-coding.github.io/WeatherStack-Frontend-Clone/)**:  A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling. 
 
 ### ☕ Java Projects
 
