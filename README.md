@@ -121,7 +121,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 
 </p>
 
-### Data Visualization & Other Tools:
+### Data Visualization & Other Tools
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" />
