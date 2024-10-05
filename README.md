@@ -20,17 +20,15 @@
 
 ## 🚀 About Me
 
-🎓 Hi, my name is Boer Liu. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MSc in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in December 2025), where I have excelled in courses such as **Introduction to Software Development**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
+🎓 Hey there! I'm Boer Liu, a **software engineer** with a love for all things **web and full-stack development**. Currently, I'm diving deep into my MSc in Computer and Information Technology at the University of Pennsylvania, aiming to wrap up by December 2025. Along the way, I've been crushing it in courses like **Introduction to Software Development**, **Data Structures and Software Design**, and **Database & Information Systems**. Can't wait to see where this journey takes me! 🚀💻
 
-
-💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
+💻 I'm all about open-source contributions and love getting hands-on with a mix of awesome tech like **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I've got the chops when it comes to frameworks and tools like **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. Building intricate systems? Oh yeah, that's my jam—and making them better every step of the way is even more exciting! 🚀 I'm always on the hunt for new knowledge and ready to explore every corner of the tech world. 🌍
 
 🔗 Check out my personal portfolio [here](https://github.com/boer-coding?tab=repositories) to see more of my work and projects. 🌐
 
-🎵 Outside the tech world, I enjoy a variety of hobbies, including learning surfing 🏄‍♂️, hiking⛰️, and spending time with my family 🥰. 
+🎵 Outside the tech world, I enjoy a variety of hobbies, including learning surfing 🏄‍♂️, hiking⛰️, and spending time with my family 🥰.
 
 🌱 I deeply appreciate everything I have: the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 👨‍👩‍👧‍👦🎶🎬💖
-
 
 ---
 
@@ -39,13 +37,14 @@
 Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### 🌐 Full-Stack Development
-- **[SafeStayNY-Fullstack-SearchPlatform](https://safestayny.vercel.app/)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data. 
-- **[Jellycat-Fullstack-Ecommerce](https://jellycat-524feb672551.herokuapp.com/)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases. 
 
+- **[SafeStayNY-Fullstack-SearchPlatform](https://safestayny.vercel.app/)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data.
+- **[Jellycat-Fullstack-Ecommerce](https://jellycat-524feb672551.herokuapp.com/)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases.
 
 ### 🌐 Front-End Development
-- **[Covilla-Frontend-Project](https://boer-coding.github.io/Covilla-Frontend-Project/)**: A dynamic web platform for a family travel agency, designed to enhance the user experience in exploring and booking vacations worldwide. 
-- **[WeatherStack-Frontend-Clone](https://boer-coding.github.io/WeatherStack-Frontend-Clone/)**:  A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling. 
+
+- **[Covilla-Frontend-Project](https://boer-coding.github.io/Covilla-Frontend-Project/)**: A dynamic web platform for a family travel agency, designed to enhance the user experience in exploring and booking vacations worldwide.
+- **[WeatherStack-Frontend-Clone](https://boer-coding.github.io/WeatherStack-Frontend-Clone/)**: A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling.
 
 ### ☕ Java Projects
 
@@ -54,66 +53,83 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 ## 💻 Skills
 
 ### Languages
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="SQL Badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+
 </p>
 
 ### Frontend
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel Badge" />
+
 </p>
 
 ### Backend
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> 
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge" />
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge" />
+
 </p>
 
 ### Databases
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge" />
+
 </p>
 
-### Cloud
+### DevOps & Cloud Tools
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> 
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+
 </p>
 
-### Other Tools
+### Data Science & Machine Learning
+
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+ <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
+<img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge" />
+
+</p>
+
+### Data Visualization & Other Tools:
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge" />
+
 </p>
 
 ---
-
 
 ## 📊 Stats
 
