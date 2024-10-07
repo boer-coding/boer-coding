@@ -366,9 +366,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1290/39990/SMG2H__95230.1720185886.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1290/39991/SMG2H_2__11602.1720185887.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1290/39992/SMG2H_3__03778.1720185888.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1290/45790/SMG2H__28601.1727981235.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/1290/45791/SMG2H_2__95471.1727981236.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/1290/45792/SMG2H_3__29099.1727981237.jpg?c=1"
         }
       }
     },
@@ -384,9 +384,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1053/38181/OOK6B__44058.1714755430.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1053/38182/OOK6B_1__62388.1714755431.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1053/38183/OOK6B_2__19992.1714755432.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1053/44712/OOK6B__75486.1727979904.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/1053/44713/OOK6B_1__87173.1727979905.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/1053/44714/OOK6B_2__69761.1727979906.jpg?c=1"
         }
       }
     },
@@ -402,17 +402,17 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/202/34798/A4PUMP__25398.1714752010.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/202/34799/A4PUMP_1__80117.1714752010.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/202/34800/A4PUMP_2__56546.1714752011.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/202/40908/A4PUMP__64178.1727974917.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/202/40909/A4PUMP_1__00909.1727974918.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/202/40910/A4PUMP_2__06741.1727974919.jpg?c=1"
         }
       }
     },
     {
       "id": 23,
-      "title": "Amuseables Bouquet of Flowers",
+      "title": "Amuseables Pretzel",
       "category": "Amuseables",
-      "des": "The Amuseables Bouquet of Flowers is the perfect way to say Thank You or Congratulations, or simply to cheer up a friend. A stunning bundle of fluffy blooms, with stitch centers, suedette leaves, petals in pink, cream, purple and yellow, embroidered stems and a hessian wrap, this bunch is blooming gorgeous.",
+      "des": "TFreckly, friendly and fresh from the bakery, Amuseables Pretzel is knotty but nice! This squishy silly is golden brown, with cocoa cord boots and stitchy salt speckles! Huggy and hearty - a brilliant breakfast buddy!",
       "priceList": {
         "small":45,
         "medium":53,
@@ -420,17 +420,17 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/128/34559/A2BFL__95470.1714751765.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/128/34560/A2BFL_2__86457.1714751766.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/128/34561/A2BFL_3__67975.1714751768.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/118/40754/A2PRET__94840.1727974717.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/118/40755/A2PRET_1__76872.1727974718.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/118/40756/A2PRET_2__82794.1727974719.jpg?c=1"
         }
       }
     },
     {
       "id": 24,
-      "title": "Amuseables Birthday Cake",
+      "title": "Amuseables Popcorn",
       "category": "Amuseables",
-      "des": "Amuseables Birthday Cake is snuggly-scrumptious, with tussly fur so beautifully baked. This party poppet wears a squashy hat of heavenly splodgy buttercream, topped with velvety strawberries and a striped jersey candle. Kick up those cordy boots and let's celebrate!",
+      "des": "Amuseables Popcorn brings a jumbo serving of joy! A squat, snuggly carton in red and white stripes, brimming with clouds of two-tone popcorn, this movie buff has booked the very best seats! With milk chocolate cordy feet, a happy smile and a weighted bottom, this cutie won't spill the spoilers!",
       "priceList": {
         "small":32,
         "medium":48,
@@ -438,9 +438,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/126/34550/A2BC__78730.1714751758.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/126/34551/A2BC_2__42526.1714751759.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/126/34552/A2BC_3__00002.1714751760.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/236/41071/A6PC__82594.1727975131.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/236/41072/A6PC_2__05356.1727975132.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/236/41073/A6PC_3__79561.1727975132.jpg?c=1"
         }
       }
     }
