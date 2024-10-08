@@ -447,16 +447,17 @@
   ],
   "banner": [
     {
-      "logo": "https://maisonbabyandkids.com/cdn/shop/collections/jellycat-logo.png?v=1535079783",
+      "logo": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/logo.webp",
       "home": {
-        "home1": "https://www.mastermindtoys.com/cdn/shop/files/jellycatbrandbanner_sept_1600x.jpg?v=1726176929",
-        "home2": "https://www.iwantthatpresent.co.uk/cdn/shop/collections/jellycat_slide.jpg?v=1708337372",
-        "home3": "https://cdn11.bigcommerce.com/s-8zeylxlay7/images/stencil/original/image-manager/jellycat-jack-25-years-our-story-5000-1600.jpg?t=1707760524",
-        "home4":"https://www.blossom.baby/wp-content/uploads/2024/03/breakfast-in-bed-web-banner-1-min.jpg"
+        "home1": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/home1.webp",
+        "home2": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/home2.jpg",
+        "home3": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/home3.jpg",
+        "home4": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/home4.jpeg"
+
       },
-      "newItem": "https://daniadown.com/cdn/shop/files/Jellycat_Collection_Banner.jpg?v=1717019555&width=2000",
-      "best": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/original/j/bashful-luxe-bunny-banner__45456.original.jpg",
-      "explore": "https://www.hatchery.com.sg/cdn/shop/collections/jellycat_amuseables_banner.png?v=1724233374&width=2400"
+      "newItem": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/banner1.webp",
+      "best": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/banner2.jpg",
+      "explore": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/banner3.webp"
     }
   ]
 }
