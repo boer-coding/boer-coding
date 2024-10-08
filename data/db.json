@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "title": "Romi Reindeer",
+      "title": "Smudge Elephant",
       "category": "Animal",
-      "des": "Romi Reindeer brings sleigh-loads of festive joy. This scrumptious honey deer has huge weighted paws and suedette antlers in rich cocoa tones – not to mention their delicate tufty tail, cranberry nose and waggle ears. A Christmas companion for long drives and post-dinner naps.",
+      "des": "Smudge Elephant loves naptime, and keeps falling asleep on the march! Flop this supersoft silly down to sit on those squishable trumpet paws. With warm grey-brown fur, bright black eyes and great big fancy ears, Smudge Elephant is an adorable dreamer.",
       "priceList": {
         "small":35,
         "medium":40,
@@ -12,9 +12,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1597/40341/ROM2R__25419.1724323642.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1597/40342/ROM2R_2__93799.1724323643.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1597/40343/ROM2R_3__58030.1724323644.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45781/SMG2EL__95591.1727981224.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45782/SMG2EL_2__44624.1727981225.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45783/SMG2EL_3__92591.1727981226.jpg?c=1"
         }
       }
     },
@@ -48,9 +48,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/35341/BAS3B__89839.1714752573.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/35342/BAS3B_1__67160.1714752574.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/35343/BAS3B_2__42540.1714752574.jpg?c=1",
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/294/1312/BASHFUL_BUNNY_BEIGE__92762.1727975735.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/41549/BAS3B_1__34887.1727975733.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/41550/BAS3B_2__20251.1727975734.jpg?c=1",
           "color": "brown"
         },
         "white": {
@@ -149,9 +149,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/38582/PNM3PN__59702.1714755827.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/38583/PNM3PN_1__01318.1714755828.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/38584/PNM3PN_2__70296.1714755829.jpg?c=1"
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/45138/PNM3PN__92795.1727980447.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/45139/PNM3PN_1__65783.1727980448.jpg?c=1",
+          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1150/45140/PNM3PN_2__36216.1727980448.jpg?c=1"
         }
       }
     },
@@ -221,8 +221,8 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1589/40310/CRAN2OC__03587.1724323573.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1589/40311/CRAN2OC_2__99719.1724323574.jpg?c=1",
+          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1589/42937/CRAN2OC__26139.1727977531.jpg?c=1",
+          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1589/42938/CRAN2OC_2__48107.1727977532.jpg?c=1",
           "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1589/42939/CRAN2OC_3__55345.1727977533.jpg?c=1"
         }
       }
