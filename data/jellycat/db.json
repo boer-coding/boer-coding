@@ -12,17 +12,17 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45781/SMG2EL__95591.1727981224.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45782/SMG2EL_2__44624.1727981225.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1288/45783/SMG2EL_3__92591.1727981226.jpg?c=1"
+          "front": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/Smudge_Elephant1.jpg",
+          "side": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/Smudge_Elephant2.jpg",
+          "back": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/Smudge_Elephant3.jpg"
         }
       }
     },
     {
       "id": 2,
-      "title": "Yummy Penguin",
-      "category": "Animal",
-      "des": "Yummy Penguin is one excited chick, ready to take that first waddle! Beautifully tousled in blue-grey fur, with a heart-shaped cream face and little flippers, this fluffy chick has a golden beak with matching feet. A welcome-home gift for any new arrival.",
+      "title": "Amuseables Lemon",
+      "category": "Amuseables",
+      "des": "Amuseables Lemon is sweet, not sour, and full of lemon-grove groove! A squishy citrus with tussly fur in gentle yellow tufts, this lovable lemon is dressed with zest. You've got to love those brown cordy boots, that nubbly stalk and snazzy cordy leaf!",
       "priceList": {
         "small":20,
         "medium":25,
@@ -30,9 +30,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1606/40406/YUM6PEN__09144.1724341863.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1606/40407/YUM6PEN_2__07961.1724341864.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1606/40408/YUM6PEN_3__83421.1724341865.jpg?c=1"
+          "front": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/al1.jpg",
+          "side": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/al2.jpg",
+          "back": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/al3.jpg"
         }
       }
     },
@@ -48,9 +48,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/960w/products/294/1312/BASHFUL_BUNNY_BEIGE__92762.1727975735.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/41549/BAS3B_1__34887.1727975733.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/294/41550/BAS3B_2__20251.1727975734.jpg?c=1",
+          "front": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/bbbb1.jpg",
+          "side": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/bbbb2.jpg",
+          "back": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/bbbb3.jpg",
           "color": "brown"
         },
         "white": {
@@ -77,9 +77,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/211/34828/A6B__49046.1714752040.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/211/34829/A6B_2__41719.1714752041.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/211/34830/A6B_3__22231.1714752042.jpg?c=1"
+          "front": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/ab1.jpg",
+          "side": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/ab2.jpg",
+          "back": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/ab3.jpg"
         }
       }
     },
@@ -95,9 +95,9 @@
       },
       "pics": {
         "default": {
-          "front": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1462/39802/F6SH__46145.1715963216.jpg?c=1",
-          "side": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1462/39803/F6SH_2__43816.1715963217.jpg?c=1",
-          "back": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1462/39804/F6SH_3__14038.1715963218.jpg?c=1"
+          "front": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/fsea1.jpg",
+          "side": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/fsea2.jpg",
+          "back": "https://raw.githubusercontent.com/boer-coding/boer-coding/main/data/jellycat/images/products/fsea3.jpg"
         }
       }
     },
