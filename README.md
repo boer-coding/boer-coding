@@ -38,7 +38,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### 🌐 Full-Stack Development
 
-- **[SafeStayNY-Fullstack-SearchPlatform](https://safestayny.vercel.app/)**: A powerful search platform using React, Node.js, and AWS-hosted MySQL, merging Airbnb listings with real-time NYC crime data.
+- **[SafeStayNY-Fullstack-SearchPlatform](https://safestayny.vercel.app/)**: A powerful search platform that offers crime statistics and Airbnb listing information for New York City neighborhoods, delivering tailored recommendations based on user preferences for safety and price.
 - **[Jellycat-Fullstack-Ecommerce](https://jellycat-524feb672551.herokuapp.com/)**: An advanced e-commerce website using React, boosting customer engagement with easy cart additions, detailed product exploration, and seamless purchases.
 
 ### 🌐 Front-End Development
