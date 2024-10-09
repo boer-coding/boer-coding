@@ -47,7 +47,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 - **[WeatherStack-Frontend-Clone](https://boer-coding.github.io/WeatherStack-Frontend-Clone/)**: A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling.
 
 ### ☕ Java Projects
-- **[Philadelphia-Covid-Data-Explorer](https://github.com/boer-coding/Philadelphia-covid-data-explorer)**: The Philadelphia Covid Data Explorer analyzes COVID-19, property, and population data from OpenDataPhilly and the U.S. Census Bureau by ZIP code, providing insights on population totals, vaccinations per capita, property values, livable areas, and custom metrics to support data-driven decisions for public health and real estate in Philadelphia.
+- **[Philadelphia-Covid-Data-Explorer](https://github.com/boer-coding/Philadelphia-covid-data-explorer)**: The Philadelphia Covid Data Explorer uses data from OpenDataPhilly and the U.S. Census Bureau to provide insights on COVID-19, properties, and population by ZIP code, helping officials and residents make data-driven decisions on public health and real estate trends in Philadelphia.
 
 ---
 
