@@ -24,7 +24,7 @@
 
 💻 I'm all about open-source contributions and love getting hands-on with a mix of awesome tech like **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I've got the chops when it comes to frameworks and tools like **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. Building intricate systems? Oh yeah, that's my jam—and making them better every step of the way is even more exciting! 🚀 I'm always on the hunt for new knowledge and ready to explore every corner of the tech world. 🌍
 
-🔗 Check out my personal portfolio [here](https://github.com/boer-coding?tab=repositories) to see more of my work and projects. 🌐
+🔗 Check out my personal portfolio [here](https://boer-portfolio.vercel.app/) to see more of my work and projects. 🌐
 
 🎵 Outside the tech world, I enjoy a variety of hobbies, including learning surfing 🏄‍♂️, hiking⛰️, and spending time with my family 🥰.
 
@@ -47,6 +47,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 - **[WeatherStack-Frontend-Clone](https://boer-coding.github.io/WeatherStack-Frontend-Clone/)**: A precise clone of the WeatherStack front end, created using HTML and CSS. This project replicates the original WeatherStack interface, demonstrating expertise in responsive design and styling.
 
 ### ☕ Java Projects
+- **[Philadelphia-Covid-Data-Explorer](https://github.com/boer-coding/Philadelphia-covid-data-explorer)**: The Philadelphia Covid Data Explorer analyzes COVID-19, property, and population data from OpenDataPhilly and the U.S. Census Bureau by ZIP code, providing insights on population totals, vaccinations per capita, property values, livable areas, and custom metrics to support data-driven decisions for public health and real estate in Philadelphia.
 
 ---
 
